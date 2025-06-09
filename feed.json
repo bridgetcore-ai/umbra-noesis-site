@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Umbra-Noesis",
+    "description": "",
+    "home_page_url": "https://bridgetcore-ai.github.io/umbra-noesis-site",
+    "feed_url": "https://bridgetcore-ai.github.io/umbra-noesis-site/feed.json",
+    "user_comment": "",
+    "icon": "https://bridgetcore-ai.github.io/umbra-noesis-site/media/website/ChatGPT-Image-Jun-5-2025-06_04_55-PM.png",
+    "author": {
+        "name": "Allen Johnston"
+    },
+    "items": [
+    ]
+}
