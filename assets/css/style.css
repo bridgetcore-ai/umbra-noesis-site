@@ -1,1 +1,8 @@
-body { font-family: sans-serif; background: #111; color: #eee; padding: 2rem; }
+body {
+  font-family: sans-serif;
+  background: #111 url('../img/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #eee;
+  padding: 2rem;
+}
+
